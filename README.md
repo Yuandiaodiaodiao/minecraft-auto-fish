@@ -1,0 +1,1 @@
+findGan.py中调整FULLRES 和colorRange 来找到鱼漂
